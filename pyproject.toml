@@ -1,9 +1,10 @@
 [project]
 name = "react-agent"
 version = "0.0.1"
-description = "Starter template for making a custom Reasoning and Action agent (using tool calling) in LangGraph."
+description = "A custom Reasoning and Action agent (using tool calling) in LangGraph."
 authors = [
-    { name = "William Fu-Hinthorn", email = "13333726+hinthornw@users.noreply.github.com" },
+    { name = "Ankit Desai", email = "ankit@users.noreply.github.com" },
+    # Forked and modified from original template by Langchain (William Fu-Hinthorn)
 ]
 readme = "README.md"
 license = { text = "MIT" }
